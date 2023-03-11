@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-Arrow-down">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Arrow-down" clip-path="url(#clip-Arrow-down)">
+    <path id="_Icon_Сolor" data-name="🎨 Icon Сolor" d="M1,8H12.865L9.232,12.36a1,1,0,0,0,1.537,1.28l5-6a.936.936,0,0,0,.087-.154.947.947,0,0,0,.071-.124A.985.985,0,0,0,16,7s0,0,0,0,0,0,0,0a.985.985,0,0,0-.072-.358.947.947,0,0,0-.071-.124.936.936,0,0,0-.087-.154l-5-6A1,1,0,0,0,9.232,1.64L12.865,6H1A1,1,0,0,0,1,8" transform="translate(19 4) rotate(90)" fill="#009bdf"/>
+  </g>
+</svg>
